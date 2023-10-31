@@ -1,0 +1,5 @@
+
+git init 
+git checkout -b tema1
+git add -A 		//modificar todos
+git commit -m "segundo commit Ejemplo2"
